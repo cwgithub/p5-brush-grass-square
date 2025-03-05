@@ -1,2 +1,2 @@
-# p5-jungle
+# p5-brush-grass-square
 P5 JS Generative Art
